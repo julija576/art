@@ -95,7 +95,6 @@ border-style:solid;
 border-color:white;
 padding:3%;
 margin-bottom:2%;
-  display:flex;
 }
 .kaste2{
 border-style:solid;
@@ -108,6 +107,9 @@ border-style:solid;
 border-color:white;
 padding:3%;
   margin-bottom:2%;
+}
+.sadalit1{
+display:flex;
 }
 .kastite1{
   flex:50%;
