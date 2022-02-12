@@ -32,7 +32,7 @@ margin-left:5%;
   margin-top:3%;
   text-align: center;
   padding:0.5%;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 .button3{
   background-color:white;
@@ -40,25 +40,55 @@ margin-left:5%;
   margin-top:3%;
   text-align: center;
   padding:0.5%;
-  border-radius: 8px;
+  border-radius: 2px;
 }
 .button4{
-  color:white;
-  margin-top:1%;
+  background-color:white;
+  color:black;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
+  padding:0.5%;
+  border-radius: 2px;
 }
 .button5{
-  color:white;
-  margin-top:1%;
+  background-color:white;
+  color:black;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
+  padding:0.5%;
+  border-radius: 2px;
 }
 .button6{
-  color:white;
-  margin-top:1%;
+  background-color:white;
+  color:black;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
+  padding:0.5%;
+  border-radius: 2px;
+}
+.button7{
+  background-color:white;
+  color:black;
+  margin-top:3%;
+  text-align: center;
+  padding:0.5%;
+  border-radius: 2px;
+}
+.button8{
+  background-color:white;
+  color:black;
+  margin-top:3%;
+  text-align: center;
+  padding:0.5%;
+  border-radius: 2px;
+}
+.button9{
+  background-color:white;
+  color:black;
+  margin-top:3%;
+  text-align: center;
+  padding:0.5%;
+  border-radius: 2px;
 }
 .kaste1{
 border-style:solid;
@@ -86,6 +116,7 @@ h2{
 color:white;
 }
 img {
+  float:right;
   width:500px;
   height:auto;
 }
