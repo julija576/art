@@ -21,10 +21,44 @@ margin-left:5%;
 .button1{
   background-color:white;
   color:black;
+  margin-top:1%;
   text-align: center;
-  padding:2%;
+  padding:1%;
   border-radius: 2px;
-  
+}
+.button2{
+  background-color:white;
+  color:black;
+  margin-top:1%;
+  text-align: center;
+  padding:1%;
+  border-radius: 2px;
+}
+.button3{
+  background-color:white;
+  color:black;
+  margin-top:1%;
+  text-align: center;
+  padding:1%;
+  border-radius: 2px;
+}
+.button4{
+  color:white;
+  margin-top:1%;
+  text-align: center;
+  padding:1%;
+}
+.button5{
+  color:white;
+  margin-top:1%;
+  text-align: center;
+  padding:1%;
+}
+.button6{
+  color:white;
+  margin-top:1%;
+  text-align: center;
+  padding:1%;
 }
 .kaste1{
 border-style:solid;
@@ -46,12 +80,12 @@ padding:3%;
 }
 h1{
 color:white;
-  font-size:80 px;
+  font-size:200 px;
 }
 h2{
 color:white;
 }
 img {
-  width:300px;
+  width:500px;
   height:auto;
 }
