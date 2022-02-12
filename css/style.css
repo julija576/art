@@ -1,5 +1,6 @@
 body{
 background-color:black;
+  color:white;
 }
 .lielakaste1{
 border-style:solid;
@@ -8,6 +9,7 @@ margin-top:2%;
 margin-right:5%;
 margin-left:5%;
 padding:3%;
+  color:white;
 }
 .lielakaste2{
 border-style:solid;
@@ -15,4 +17,5 @@ border-color:white;
 margin-top:2%;
 margin-right:5%;
 margin-left:5%;
+  color:white;
 }
