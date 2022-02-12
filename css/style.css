@@ -21,26 +21,26 @@ margin-left:5%;
 .button1{
   background-color:white;
   color:black;
-  margin-top:1%;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
+  padding:0.5%;
   border-radius: 2px;
 }
 .button2{
   background-color:white;
   color:black;
-  margin-top:1%;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
-  border-radius: 2px;
+  padding:0.5%;
+  border-radius: 4px;
 }
 .button3{
   background-color:white;
   color:black;
-  margin-top:1%;
+  margin-top:3%;
   text-align: center;
-  padding:1%;
-  border-radius: 2px;
+  padding:0.5%;
+  border-radius: 8px;
 }
 .button4{
   color:white;
@@ -80,7 +80,7 @@ padding:3%;
 }
 h1{
 color:white;
-  font-size:200 px;
+  text-size:200 px;
 }
 h2{
 color:white;
