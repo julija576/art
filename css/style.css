@@ -1,0 +1,16 @@
+body{
+background-color:black;
+}
+.lielakaste1{
+border-style:solid;
+border-color:white;
+margin-top:2%;
+margin-right:5%;
+margin-left:5%;
+padding:3%;
+}
+.lielakaste2{
+border-style:solid;
+border-color:white;
+margin-top:2%;
+}
