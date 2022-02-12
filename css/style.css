@@ -109,9 +109,21 @@ padding:3%;
   margin-bottom:2%;
 }
 .sadalit1{
-display:flex;
+  display:flex;
+}
+.sadalit2{
+  display:flex;
+}
+.sadalit3{
+  display:flex;
 }
 .kastite1{
+  flex:50%;
+}
+.kastite3{
+  flex:50%;
+}
+.kastite5{
   flex:50%;
 }
 h1{
