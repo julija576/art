@@ -23,6 +23,7 @@ margin-left:5%;
   color:black;
   text-align: center;
   padding:2%;
+  border-radius: 2px;
   
 }
 .kaste1{
@@ -45,6 +46,7 @@ padding:3%;
 }
 h1{
 color:white;
+  font-size:80 px;
 }
 h2{
 color:white;
