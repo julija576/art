@@ -2,6 +2,7 @@ body{
 background-color:black;
 }
 .lielakaste1{
+text-align:center;
 border-style:solid;
 border-color:white;
 margin-top:2%;
@@ -21,6 +22,21 @@ margin-left:5%;
   color:black;
   text-align: center;
   padding:2%;
+}
+.kaste1{
+border-style:solid;
+border-color:white;
+padding:3%;
+}
+.kaste2{
+border-style:solid;
+border-color:white;
+padding:3%;
+}
+.kaste3{
+border-style:solid;
+border-color:white;
+padding:3%;
 }
 h1{
 color:white;
