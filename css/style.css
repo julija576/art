@@ -95,18 +95,21 @@ border-style:solid;
 border-color:white;
 padding:3%;
 margin-bottom:2%;
+margin-right:10%;
 }
 .kaste2{
 border-style:solid;
 border-color:white;
 padding:3%;
-  margin-bottom:2%;
+margin-bottom:2%;
+margin-right:10%;
 }
 .kaste3{
 border-style:solid;
 border-color:white;
 padding:3%;
-  margin-bottom:2%;
+margin-bottom:2%;
+margin-right:10%;
 }
 .sadalit1{
   display:flex;
@@ -128,7 +131,7 @@ padding:3%;
 }
 h1{
 color:white;
-  text-size:200 px;
+  text-size:400 px;
 }
 h2{
 color:white;
