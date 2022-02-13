@@ -16,6 +16,10 @@ margin-top:2%;
 margin-right:5%;
 margin-left:5%;
   padding:2%;
+  display:flex;
+}
+sani2{
+flex:25%;
 }
 .button1{
   background-color:white;
