@@ -19,9 +19,15 @@ border-color:blue;
 }
 .kolonna2{
 flex:25%;
+backround-color:white;
+border-style:solid;
+border-color:blue;
 }
 .kolonna3{
 flex:25%;
+backround-color:white;
+border-style:solid;
+border-color:blue;
 }
 img{
   height:200px;
