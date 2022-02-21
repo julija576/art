@@ -1,5 +1,6 @@
 body{
-background-color:black;
+background-color:white;
+padding:5%;
 }
 .zimesanagal{
 padding:5%;
@@ -8,10 +9,13 @@ border-color:blue;
 display:flex;
 flex:wrap;
 flex-direction:row;
-background-color:white;
+background-color:black;
 }
 .kolonna1{
 flex:25%;
+backround-color:white;
+border-style:solid;
+border-color:blue;
 }
 .kolonna2{
 flex:25%;
