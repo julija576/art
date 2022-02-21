@@ -3,6 +3,8 @@ padding:5%;
 border-style:solid;
 border-color:black;
 display:flex;
+flex:wrap;
+flex-direction:row;
 }
 .kolonna1{
 flex:25%;
