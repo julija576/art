@@ -10,11 +10,11 @@ padding:5%;
 border-style:solid;
 border-color:blue;
 display:flex;
-flex:wrap;
-flex-direction:row;
+/*flex:wrap;
+flex-direction:row;*/
 background-color:white;
 }
-/*.kolonna1{
+.kolonna1{
 flex:25%;
 }
 .kolonna2{
@@ -22,7 +22,7 @@ flex:25%;
 }
 .kolonna3{
 flex:25%;
-}*/
+}
 img{
   height:200px;
   width:auto;
