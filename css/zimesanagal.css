@@ -1,3 +1,12 @@
 .zimesanagal{
 display:flex;
 }
+.kolonna1{
+flex:25%;
+}
+.kolonna2{
+flex:25%;
+}
+.kolonna3{
+flex:25%;
+}
