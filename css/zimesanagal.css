@@ -10,3 +10,7 @@ flex:25%;
 .kolonna3{
 flex:25%;
 }
+img{
+  height:300px;
+  width:auto;
+}
