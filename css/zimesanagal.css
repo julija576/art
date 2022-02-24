@@ -2,14 +2,10 @@ body{
 background-color:black;
 padding:5%;
 }
-.balts{
-background-color:white;
-padding:6%;
-}
 .zimesanagal{
 padding:3%;
 border-style:solid;
-border-color:blue;
+border-color:white;
 display:flex;
 /*flex:wrap;
 flex-direction:row;*/
