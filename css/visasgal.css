@@ -1,0 +1,24 @@
+body{
+background-color:black;
+padding:5%;
+}
+.visasgal{
+padding:3%;
+border-style:solid;
+border-color:white;
+display:flex;
+background-color:black;
+}
+.kolonna1{
+flex:25%;
+}
+.kolonna2{
+flex:25%;
+}
+.kolonna3{
+flex:25%;
+}
+img{
+  height:150px;
+  width:auto;
+}
